@@ -9,6 +9,7 @@
 	"remove_headers": ["user-id"],
 	"revision": "202406051438-9d39aa517c",
 	"format": "24650:{}:{:x}:666078a0",
+	"error_code": 0,
 	"prefix": "24650",
 	"suffix": "666078a0"
 }
