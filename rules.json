@@ -5,4 +5,7 @@
   "suffix": "666078a0",
   "checksum_constant": 13,
   "checksum_indexes": [4,5,7,9,9,11,13,17,18,19,23,23,23,24,25,26,27,27,28,28,28,28,28,29,30,32,32,33,33,34,34,38]
+  "remove_headers": ["user-id"],
+  "error_code": 0,
+  "message": ""
 }
