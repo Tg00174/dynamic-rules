@@ -1,11 +1,11 @@
 {
     "app-token": "33d57ade8c02dbc5a333db99ff9ae26a",
     "static_param": "7HMjX3tp4B4JJDOryHAMCUIQCtmGq69D",
-    "prefix": "51892",
-    "suffix": "69406376",
     "remove_headers": [
     "user-id"
   ],
+    "prefix": "51892",
+    "suffix": "69406376",
     "checksum_constant": 53,
     "checksum_indexes": [
         0,
